@@ -49,8 +49,6 @@ Atualmente, estou em transição de carreira, migrando da área administrativa p
 **"Tecnologia transforma vidas. Aprender, construir e compartilhar é o que me move."**
 
 
-# Olá, eu sou o Igor Costa! 👋
-
 <p align="center">
   <em>Um desenvolvedor apaixonado por tecnologia, resolução de problemas e aprendizado contínuo.</em>
 </p>
